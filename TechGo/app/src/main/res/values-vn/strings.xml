@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Tech Go</string>
+    <string name = "password">Mật khẩu</string>;
+    <string name="username">Tên đăng nhập</string>;
+    <string name="address">Địa chỉ</string>;
+    <string name = "login">Đăng nhập</string>;
+    <string name = "signup">Đăng ký</string>;
+    <string name="recharge">Nạp tiền</string>;
+    <string name="display_name">Tên hiển thị</string>;
+    <string name="day_of_birth">Ngày sinh</string>;
+    <string name = "forgot_password" >Quên mật khẩu</string>;
+    <string name="update">Cập nhật</string>;
+    <string name="withdraw">Rút tiền</string>
+    <string name="amount">Số tiền</string>
+    <string name="amount_money">VNĐ</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="from">Từ</string>;
+    <string name="to">Đến</string>;
+    <string name="bike">Xe máy</string>;
+    <string name="car">Xe hơi</string>;
+    <string name="book">Đặt xe</string>;
+    <string name="findingDriver">Đang tìm tài xế cho bạn</string>;
+    <string name = "or_create_new_account">hay tạo tài khoản mới?</string>;
+    <string name = "back" >Quay về</string>;
+    <string name="driver" >Tài xế</string>;
+    <string name = "customer" >Hành khách</string>;
+    <string name = "iam" >Tôi là</string>;
+    <string name = "phone_number" >Số điện thoại</string>;
+    <string name = "email" >Thư điện tử</string>;
+    <string name = "next">Tiếp theo</string>;
+    <string name = "agree_with_our_term_of_service">Đồng ý với chính sách dịch vụ của chúng tôi</string>;
+    <string name = "previous" >Về trước</string> ;
+    <string name = "finish">Hoàn tất</string>;
+    <string name = "Your_account_have_been_created_succesfully_Press_signin_to_continue">Tài khoản của bạn đã được tạo thành công\nBấm Đăng nhập để tiếp tục</string>;
+    <string name = "success">Hoàn tất</string>;
+    <string name = "input_these_info_to">Điền các thông tin sau để lấy lại mật khẩu</string>;
+    <string name = "fail">Thất bại</string>;
+    <string name = "your_info_not_match_any_account">Thông tin của bạn không trùng khớp</string>;
+    <string name = "reset_password">Đặt lại mật khẩu</string>;
+    <string name = "retype_password">Nhập lại mật khẩu</string>;
+    <string name = "input_new_pass">Đặt mật khẩu mới</string>;
+    <string name = "please_fill_all_these_information">Hãy điền các ô còn trống</string>;
+    <string name = "password_notMatch">Mật khẩu không khớp</string>;
+    <string name = "Your_password_has_been_reset_succesfully_Press_signin_to_conitnue">Mật khẩu của bạn đã được cập nhập\nBấm Đăng nhập để tiếp tục</string>;
+    <string name = "home" >Trang chủ</string>;
+    <string name = "activity">Hoạt động</string>;
+    <string name = "payment">Thanh toán</string>;
+    <string name = "account">Tài khoản</string>;
+    <string name = "balance">Số dư</string>;
+    <string name = "wallet">Ví tiền</string>;
+    <string name = "book_a_trip">Đặt xe</string>;
+    <string name = "Trip_to">Chuyến đi tới:</string>;
+    <string name="type_address">Nhập địa chỉ</string>;
+    <string name="cancelTrip">Bạn có muốn hủy chuyến đi này không?</string>
+    <string name="choose_address">Chọn điểm đến</string>;
+
+    <string-array name="payment_method">
+        <item>Tiền mặt</item>
+        <item>Ví điện tử</item>
+    </string-array>
+</resources>

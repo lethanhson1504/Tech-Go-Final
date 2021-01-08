@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Tech Go</string>
+    <string name="password">Password</string>;
+    <string name="username">Username</string>;
+    <string name="login">Login</string>;
+    <string name="signup">Signup</string>;
+    <string name="address">Address</string>;
+    <string name="recharge">Recharge</string>;
+    <string name="withdraw">Withdraw</string>
+    <string name="amount">Amount</string>
+    <string name="amount_money">VND</string>
+    <string name="day_of_birth">Day of birth</string>;
+    <string name="update">Update</string>;
+    <string name="from">From</string>;
+    <string name="to">To</string>;
+    <string name="bike">Bike</string>;
+    <string name="car">Car</string>;
+    <string name="book">Book</string>;
+    <string name="findingDriver">Finding driver</string>;
+    <string name="confirm">Confirm</string>
+    <string name="display_name">Display name</string>;
+    <string name="forgot_password">Forgot password</string>;
+    <string name="or_create_new_account">or create new account?</string>;
+    <string name="back">Back</string>;
+    <string name="driver">Driver</string>;
+    <string name="customer">Customer</string>;
+    <string name="iam">I am</string>;
+    <string name="phone_number">Phone number</string>;
+    <string name="email">Email</string>;
+    <string name="next">Next</string>;
+    <string name="agree_with_our_term_of_service">Agree with our term of service</string>;
+    <string name="previous">Previous</string>;
+    <string name="finish">Finish</string>;
+    <string name="Your_account_have_been_created_succesfully_Press_signin_to_continue">Your account has been created succesfully\nPress Signin to conitnue</string>
+    ;
+    <string name="success">Success</string>;
+    <string name="input_these_info_to">Fill these information to get your password back</string>;
+    <string name="fail">Fail</string>;
+    <string name="your_info_not_match_any_account">Your information not match any account!</string>;
+    <string name="reset_password">Reset Password</string>;
+    <string name="retype_password">Retype password</string>;
+    <string name="input_new_pass">Input new pasword</string>;
+    <string name="please_fill_all_these_information">Please fill all these information</string>;
+    <string name="password_notMatch">Password not match</string>;
+    <string name="Your_password_has_been_reset_succesfully_Press_signin_to_conitnue">Your password has been updated succesfully\nPress Signin to conitnue</string>
+    ;
+    <string name="home">Home</string>;
+    <string name="activity">Activity</string>;
+    <string name="payment">Payment</string>;
+    <string name="account">Account</string>;
+    <string name="balance">Balance</string>;
+    <string name="wallet">Wallet</string>;
+    <string name="book_a_trip">Book a trip</string>;
+    <string name="Trip_to">Trip to:</string>;
+    <string name="type_address">Type address</string>;
+    <string name="cancelTrip">Are you sure to cancel this trip?</string>
+    <string name="choose_address">Choose destination</string>;
+
+    <string-array name="payment_method">
+        <item>Cash</item>
+        <item>Wallet</item>
+    </string-array>
+    <string name="title_activity_picking_location">Map</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/nav_activity"
+        android:icon="@drawable/ic_baseline_calendar_today_24"
+        android:title="@string/activity"/>
+    <item
+        android:id="@+id/nav_payment"
+        android:icon="@drawable/ic_baseline_account_balance_wallet_24"
+        android:title="@string/payment"/>
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="@string/account"/>
+
+
+</menu>
